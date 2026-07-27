@@ -1,0 +1,8 @@
+[
+null,
+{"id":1,"animationId":6,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":0,"name":"■ Pedang ■","note":"","params":[0,0,0,0,0,0,0,0],"price":50,"wtypeId":0},
+{"id":2,"animationId":6,"description":"[Pedang] Pedang pendek dengan pisau yang ringan dan mudah digunakan.","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":97,"name":"Pedang pendek","note":"","params":[0,0,8,0,0,0,0,0],"price":50,"wtypeId":2},
+{"id":3,"animationId":6,"description":"[Pedang] Pedang panjang untuk pertempuran yang menawarkan ketajaman yang tajam","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":97,"name":"Longsword","note":"","params":[0,0,15,0,0,0,0,0],"price":150,"wtypeId":2},
+{"id":4,"animationId":9,"description":"[Pedang] Pedang yang terbuat dari logam khusus","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":97,"name":"Konsol Orichal","note":"","params":[0,0,30,0,0,0,0,0],"price":500,"wtypeId":2},
+{"id":5,"animationId":10,"description":"[Pedang] Pedang dengan tikar misterius.\nLebih mudah untuk mendapatkan hit kritis.","etypeId":1,"traits":[{"code":31,"dataId":4,"value":0},{"code":22,"dataId":0,"value":0},{"code":22,"dataId":2,"value":0.25}],"iconIndex":97,"name":"Pedang pahlawan","note":"","params":[0,0,38,0,0,0,0,0],"price":0,"wtypeId":2}
+]
